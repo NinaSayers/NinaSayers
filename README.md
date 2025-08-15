@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Massiel Paz</h1>
-<h3 align="center">Final Year Computer Science Student Passionate About Data and Artificial Intelligence</h3>
-
-- 🌱 I’m currently learning **Machine Learning, Distributed Systems, and Algorithm design and analysis at University of Havana**
+<h3 align="center">Computer Scientist Passionate About Data and Artificial Intelligence</h3>
 
 - 📫 How to reach me **massypaz2001@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGUzhstnWg/h8wTZu84OT2_IoIxrylDNQ/view?utm_content=DAGUzhstnWg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGUzhstnWg/h8wTZu84OT2_IoIxrylDNQ/view?utm_content=DAGUzhstnWg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [CV](https://www.canva.com/design/DAGvmmt3ezE/R0p6pKBXyc3Db2QG0ivHUw/view?utm_content=DAGvmmt3ezE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h015848e4f1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
